@@ -1,0 +1,11 @@
+{
+    "url": "www.mpdsboard.com",
+    "EmailIDAttr": "#UserID",
+    "PasswordAttr": ".PasswordID",
+    "LoginButton": "#loginButton",
+    "PasswordAlertAttr": ".PasswordAlert",
+    "EmailIDAlertAttr": "#EmailIDAlert",
+    "ForgotEmailAttr": ".ForgotEmail",
+    "ForgotPasswordAttr": "#ForgotPassword",
+    "ShowPassword": "#ShowPassword"
+}
